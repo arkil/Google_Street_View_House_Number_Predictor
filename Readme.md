@@ -3,9 +3,9 @@
 
 Download dataset from [http://ufldl.stanford.edu/housenumbers/]
 
-pip install virtualenv
-virtualenv path
-pip install -r requirements.txt
+* pip install virtualenv 
+* virtualenv path
+* pip install -r requirements.txt
 
 
 RandomForest Classifier for predicting the number.
